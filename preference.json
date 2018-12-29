@@ -1,0 +1,6 @@
+{
+	"_commentaire" : "Base de donnée qui sera prochainement modifier",
+	"couleurs_dispo" : ["white", "black", "red", "green","blue", "cyan", "magenta"],
+	"couleur" : ["white", "black", "red", "green","blue", "cyan", "magenta"],
+	"algo_de_base" : "Base.py" 
+}
